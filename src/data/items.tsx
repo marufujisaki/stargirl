@@ -13,6 +13,24 @@ export const products: Item[] = [
     sizes: ["XS", "S", "M"],
   },
   {
+    title: "Red jacket",
+    price: 35,
+    image: "https://i.ibb.co/M1dnMrF/stargirl6.png",
+    sizes: ["M", "L"],
+  },
+  {
+    title: "Shoulders top",
+    price: 25,
+    image: "https://i.ibb.co/k8HwvLZ/11.png",
+    sizes: ["S", "M"],
+  },
+  {
+    title: "Blair swimsuit",
+    price: 22,
+    image: "https://i.ibb.co/WfRnyq9/stargirl3.png",
+    sizes: ["L"],
+  },
+  {
     title: "Alex bikini",
     price: 12,
     image: "https://i.ibb.co/2d0PV5M/stargirl2.png",
@@ -29,18 +47,6 @@ export const products: Item[] = [
     price: 12,
     image: "https://i.ibb.co/TkQ0cbs/stargirl5.png",
     sizes: ["M"],
-  },
-  {
-    title: "Blair swimsuit",
-    price: 22,
-    image: "https://i.ibb.co/WfRnyq9/stargirl3.png",
-    sizes: ["L"],
-  },
-  {
-    title: "Red jacket",
-    price: 35,
-    image: "https://i.ibb.co/M1dnMrF/stargirl6.png",
-    sizes: ["M", "L"],
   },
   {
     title: "Blue jacket",
@@ -71,11 +77,5 @@ export const products: Item[] = [
     price: 25,
     image: "https://i.ibb.co/SNBSzGB/12.png",
     sizes: ["XS", "S", "M", "L"],
-  },
-  {
-    title: "Shoulders top",
-    price: 25,
-    image: "https://i.ibb.co/k8HwvLZ/11.png",
-    sizes: ["S", "M"],
   },
 ];
