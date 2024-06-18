@@ -69,7 +69,7 @@ export const products: Item[] = [
   {
     title: "Fire jeans",
     price: 25,
-    image: "PENDIENTE.png",
+    image: "12.png",
     sizes: ["XS", "S", "M", "L"],
   },
   {
