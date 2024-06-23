@@ -10,7 +10,7 @@ export const products: Item[] = [
     title: "Elle bikini",
     price: 12,
     image: "https://i.ibb.co/ZTXNQDz/stargirl1.png",
-    sizes: ["XS", "S", "M"],
+    sizes: ["XS", "S"],
   },
   {
     title: "Red jacket",
@@ -76,6 +76,6 @@ export const products: Item[] = [
     title: "Fire jeans",
     price: 25,
     image: "https://i.ibb.co/SNBSzGB/12.png",
-    sizes: ["XS", "S", "M", "L"],
+    sizes: ["S", "M", "L"],
   },
 ];
