@@ -15,7 +15,7 @@ export const products: Item[] = [
   {
     title: "Red jacket",
     price: 35,
-    image: "https://i.ibb.co/M1dnMrF/stargirl6.png",
+    image: "https://i.ibb.co/0GSDzT9/redjacket.png",
     sizes: ["M", "L"],
   },
   {
@@ -51,8 +51,8 @@ export const products: Item[] = [
   {
     title: "Blue jacket",
     price: 45,
-    image: "https://i.ibb.co/rFL6FZk/stargirl7.png",
-    sizes: ["S", "M"],
+    image: "https://i.ibb.co/V30vt9M/bluejacket.png",
+    sizes: ["M"],
   },
   {
     title: "White jacket",
@@ -63,19 +63,19 @@ export const products: Item[] = [
   {
     title: "Black mini skirt",
     price: 20,
-    image: "https://i.ibb.co/mbvCnQx/stargirl10.png",
+    image: "https://i.ibb.co/MyzYRWg/blackskirt.png",
     sizes: ["XS", "S", "M"],
   },
   {
     title: "Hot baby tee",
     price: 12,
-    image: "https://i.ibb.co/k5dRn3Q/stargirl9.png",
+    image: "https://i.ibb.co/xjtg92s/hottop.png",
     sizes: ["S", "M", "L"],
   },
   {
     title: "Fire jeans",
     price: 25,
-    image: "https://i.ibb.co/SNBSzGB/12.png",
+    image: "https://i.ibb.co/JQdj1Ls/firejeans.png",
     sizes: ["S", "M", "L"],
   },
 ];
