@@ -7,10 +7,22 @@ export interface Item {
 
 export const products: Item[] = [
   {
-    title: "Elle bikini",
+    title: "Hot baby tee",
     price: 12,
-    image: "https://i.ibb.co/ZTXNQDz/stargirl1.png",
-    sizes: ["XS", "S"],
+    image: "https://i.ibb.co/xjtg92s/hottop.png",
+    sizes: ["S", "M", "L"],
+  },
+  {
+    title: "Black mini skirt",
+    price: 20,
+    image: "https://i.ibb.co/MyzYRWg/blackskirt.png",
+    sizes: ["XS", "S", "M"],
+  },
+  {
+    title: "Fire jeans",
+    price: 25,
+    image: "https://i.ibb.co/JQdj1Ls/firejeans.png",
+    sizes: ["S", "M", "L"],
   },
   {
     title: "Red jacket",
@@ -61,21 +73,9 @@ export const products: Item[] = [
     sizes: ["S", "M", "L"],
   },
   {
-    title: "Black mini skirt",
-    price: 20,
-    image: "https://i.ibb.co/MyzYRWg/blackskirt.png",
-    sizes: ["XS", "S", "M"],
-  },
-  {
-    title: "Hot baby tee",
+    title: "Elle bikini",
     price: 12,
-    image: "https://i.ibb.co/xjtg92s/hottop.png",
-    sizes: ["S", "M", "L"],
-  },
-  {
-    title: "Fire jeans",
-    price: 25,
-    image: "https://i.ibb.co/JQdj1Ls/firejeans.png",
-    sizes: ["S", "M", "L"],
+    image: "https://i.ibb.co/ZTXNQDz/stargirl1.png",
+    sizes: ["XS", "S"],
   },
 ];
