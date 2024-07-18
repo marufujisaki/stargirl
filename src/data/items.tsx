@@ -31,7 +31,7 @@ export const products: Item[] = [
     sizes: ["M", "L"],
   },
   {
-    title: "Shoulders top",
+    title: "Off Shoulders top",
     price: 25,
     image: "https://i.ibb.co/k8HwvLZ/11.png",
     sizes: ["S", "M"],
@@ -70,7 +70,7 @@ export const products: Item[] = [
     title: "White jacket",
     price: 35,
     image: "https://i.ibb.co/hBxw3ZR/stargirl8.png",
-    sizes: ["S", "M", "L"],
+    sizes: ["L"],
   },
   {
     title: "Elle bikini",
