@@ -8,7 +8,7 @@ export interface Item {
 export const products: Item[] = [
   {
     title: "Hot baby tee",
-    price: 12,
+    price: 10,
     image: "https://i.ibb.co/xjtg92s/hottop.png",
     sizes: ["S", "M", "L"],
   },
@@ -44,19 +44,19 @@ export const products: Item[] = [
   },
   {
     title: "Alex bikini",
-    price: 12,
+    price: 5,
     image: "https://i.ibb.co/2d0PV5M/stargirl2.png",
     sizes: ["L"],
   },
   {
     title: "Crochet top",
-    price: 14,
+    price: 10,
     image: "https://i.ibb.co/0c5H2VC/stargirl4.png",
     sizes: ["XS", "S"],
   },
   {
     title: "Bodycon dress",
-    price: 12,
+    price: 8,
     image: "https://i.ibb.co/TkQ0cbs/stargirl5.png",
     sizes: ["M"],
   },
@@ -74,7 +74,7 @@ export const products: Item[] = [
   },
   {
     title: "Elle bikini",
-    price: 12,
+    price: 7,
     image: "https://i.ibb.co/ZTXNQDz/stargirl1.png",
     sizes: ["XS", "S"],
   },
