@@ -44,7 +44,7 @@ export const products: Item[] = [
   },
   {
     title: "Alex bikini",
-    price: 5,
+    price: 6,
     image: "https://i.ibb.co/2d0PV5M/stargirl2.png",
     sizes: ["L"],
   },
@@ -74,7 +74,7 @@ export const products: Item[] = [
   },
   {
     title: "Elle bikini",
-    price: 7,
+    price: 8,
     image: "https://i.ibb.co/ZTXNQDz/stargirl1.png",
     sizes: ["XS", "S"],
   },
