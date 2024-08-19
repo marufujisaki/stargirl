@@ -14,38 +14,32 @@ export const products: Item[] = [
   },
   {
     title: "Black mini skirt",
-    price: 20,
+    price: 16,
     image: "https://i.ibb.co/MyzYRWg/blackskirt.png",
     sizes: ["XS", "S", "M"],
   },
   {
     title: "Fire jeans",
-    price: 25,
+    price: 22,
     image: "https://i.ibb.co/JQdj1Ls/firejeans.png",
     sizes: ["S", "M", "L"],
   },
   {
     title: "Red jacket",
-    price: 35,
+    price: 29,
     image: "https://i.ibb.co/0GSDzT9/redjacket.png",
     sizes: ["M", "L"],
   },
   {
     title: "Off Shoulders top",
-    price: 25,
+    price: 22,
     image: "https://i.ibb.co/k8HwvLZ/11.png",
     sizes: ["S", "M"],
   },
   {
     title: "Blair swimsuit",
-    price: 22,
+    price: 20,
     image: "https://i.ibb.co/WfRnyq9/stargirl3.png",
-    sizes: ["L"],
-  },
-  {
-    title: "Alex bikini",
-    price: 6,
-    image: "https://i.ibb.co/2d0PV5M/stargirl2.png",
     sizes: ["L"],
   },
   {
@@ -62,13 +56,13 @@ export const products: Item[] = [
   },
   {
     title: "Blue jacket",
-    price: 45,
+    price: 38,
     image: "https://i.ibb.co/V30vt9M/bluejacket.png",
     sizes: ["M"],
   },
   {
     title: "White jacket",
-    price: 35,
+    price: 28,
     image: "https://i.ibb.co/hBxw3ZR/stargirl8.png",
     sizes: ["L"],
   },
@@ -76,6 +70,6 @@ export const products: Item[] = [
     title: "Elle bikini",
     price: 8,
     image: "https://i.ibb.co/ZTXNQDz/stargirl1.png",
-    sizes: ["XS", "S"],
+    sizes: ["S"],
   },
 ];
