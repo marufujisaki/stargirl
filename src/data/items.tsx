@@ -7,46 +7,52 @@ export interface Item {
 
 export const products: Item[] = [
   {
-    title: "Hot baby tee",
+    title: "Sun Bikini",
     price: 10,
+    image: "https://i.ibb.co/WWqmXSZr/IMG-1253.jpg",
+    sizes: ["S", "M"],
+  },
+  {
+    title: "Moon Bikini",
+    price: 10,
+    image: "https://i.ibb.co/b5wgLj6Q/IMG-1236.jpg",
+    sizes: ["S", "M"],
+  },
+  {
+    title: "Boho skirt",
+    price: 15,
+    image: "https://i.ibb.co/VkyGBwR/IMG-1241.jpg",
+    sizes: ["S", "M"],
+  },
+  {
+    title: "Hot baby tee",
+    price: 5,
     image: "https://i.ibb.co/xjtg92s/hottop.png",
     sizes: ["S", "M", "L"],
   },
   {
     title: "Black mini skirt",
-    price: 16,
+    price: 10,
     image: "https://i.ibb.co/MyzYRWg/blackskirt.png",
     sizes: ["XS", "S", "M"],
   },
   {
     title: "Fire jeans",
-    price: 22,
-    image: "https://i.ibb.co/JQdj1Ls/firejeans.png",
-    sizes: ["S", "M", "L"],
-  },
-  {
-    title: "Red jacket",
-    price: 29,
-    image: "https://i.ibb.co/0GSDzT9/redjacket.png",
-    sizes: ["M", "L"],
-  },
-  {
-    title: "Off Shoulders top",
-    price: 22,
-    image: "https://i.ibb.co/k8HwvLZ/11.png",
+    price: 15,
+    image: "https://i.ibb.co/mrWmyx1H/IMG-1277.jpg",
     sizes: ["S", "M"],
   },
   {
-    title: "Blair swimsuit",
+    title: "Red jacket",
     price: 20,
-    image: "https://i.ibb.co/WfRnyq9/stargirl3.png",
-    sizes: ["L"],
+    image: "https://i.ibb.co/0GSDzT9/redjacket.png",
+    sizes: ["S", "M"],
   },
   {
-    title: "Crochet top",
-    price: 10,
-    image: "https://i.ibb.co/0c5H2VC/stargirl4.png",
-    sizes: ["XS", "S"],
+    title: "Off Shoulders top",
+    price: 12,
+    image: "https://i.ibb.co/1GrHKtQx/IMG-1165.jpg",
+    sizes: ["S", "M"],
   },
   {
     title: "Bodycon dress",
@@ -56,20 +62,8 @@ export const products: Item[] = [
   },
   {
     title: "Blue jacket",
-    price: 38,
+    price: 30,
     image: "https://i.ibb.co/V30vt9M/bluejacket.png",
     sizes: ["M"],
-  },
-  {
-    title: "White jacket",
-    price: 28,
-    image: "https://i.ibb.co/hBxw3ZR/stargirl8.png",
-    sizes: ["L"],
-  },
-  {
-    title: "Elle bikini",
-    price: 8,
-    image: "https://i.ibb.co/ZTXNQDz/stargirl1.png",
-    sizes: ["S"],
   },
 ];
