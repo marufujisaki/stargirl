@@ -34,7 +34,7 @@ export const products: Item[] = [
     title: "Black mini skirt",
     price: 10,
     image: "https://i.ibb.co/MyzYRWg/blackskirt.png",
-    sizes: ["XS", "S", "M"],
+    sizes: ["XS", "S"],
   },
   {
     title: "Fire jeans",
