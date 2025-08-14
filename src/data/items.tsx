@@ -16,7 +16,7 @@ export const products: Item[] = [
     title: "Moon Bikini",
     price: 10,
     image: "https://i.ibb.co/b5wgLj6Q/IMG-1236.jpg",
-    sizes: ["S", "M"],
+    sizes: ["M"],
   },
   {
     title: "Blue jacket",
@@ -29,6 +29,12 @@ export const products: Item[] = [
     price: 15,
     image: "https://i.ibb.co/VkyGBwR/IMG-1241.jpg",
     sizes: ["S", "M"],
+  },
+  {
+    title: "Bodycon dress",
+    price: 8,
+    image: "https://i.ibb.co/TkQ0cbs/stargirl5.png",
+    sizes: ["M"],
   },
   {
     title: "Hot baby tee",
@@ -52,18 +58,12 @@ export const products: Item[] = [
     title: "Red jacket",
     price: 20,
     image: "https://i.ibb.co/0GSDzT9/redjacket.png",
-    sizes: ["S", "M"],
+    sizes: ["M"],
   },
   {
     title: "Off Shoulders top",
-    price: 12,
+    price: 15,
     image: "https://i.ibb.co/1GrHKtQx/IMG-1165.jpg",
     sizes: ["S"],
-  },
-  {
-    title: "Bodycon dress",
-    price: 8,
-    image: "https://i.ibb.co/TkQ0cbs/stargirl5.png",
-    sizes: ["M"],
   },
 ];
